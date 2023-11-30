@@ -91,8 +91,8 @@ This takes us to the underlisted visuals;
   3. Top Category by Profit = Toys,
   4. Top Category by Profit Margin = Electronics,
   5. Profit/Profit Margin by Location = A stacked column chart that shows Profit/Profit Margin by Store Locations,
-  6. Profit/Profit Margin by Category = A donut chart that shows Profit/Profit Margin by Product Categories.
-  7. Two buttons were also added here to navigate through the Visuals by Profit and by Profit Margin
+  6. Profit/Profit Margin by Category = A donut chart that shows Profit/Profit Margin by Product Categories,
+  7. Two buttons were also added here to navigate through the Visuals by Profit and by Profit Margin.
 
 
 By Profit                    |                    By Profit Margin
@@ -103,15 +103,21 @@ It was observed here that the product category with the overall highest profit w
 
 - Out-of-Stock Products Button:
 This button navigates to;
-  1. Total Units Sold = 1M
-  2. Average Daily Units Sold (ADUS) = 1494
-  3. Average Daily Sales (ADS) = $19.79K
+  1. Total Units Sold = 1M,
+  2. Average Daily Units Sold (ADUS) = 1494,
+  3. Average Daily Sales (ADS) = $19.79K,
   4. Out-of-Stock Inventory = A table visual showing out-of-stock products, their location, ADUS and ADS.
  
   ![](Out_of_stock_products.PNG)
 
-  The out-of-stock inventory with the lowest ADS is Classic Dominoes ($61.19) with an ADUS of 5 while that with the highest ADS is Action Figure ($1,269.52) with an ADUS of 126. This implies that even though sales will be lost with both products being out-of-stock, more sales will be lost with the unavailability of Action Figure than it will be lost with Classic Dominoes. This also applies to the locations that have higher ADS of these products.
+The out-of-stock inventory with the lowest ADS is Classic Dominoes ($61.19) with an ADUS of 5 while that with the highest ADS is Action Figure ($1,269.52) with an ADUS of 126. This implies that even though sales will be lost with both products being out-of-stock, more sales will be lost with the unavailability of Action Figure than it will be lost with Classic Dominoes. This also applies to the locations that have higher ADS of these products.
 
+- Inventory Cost Button:
+This opens up;
+  1. Inventory Cost visual = $300.21K,
+  2. Inventory Days = 15 days,
+  3. Inventory Cost by Store = a clustered bar chart visual showing stores and the total cost of their inventory at hand,
+  4. Inventory Days by Store = a clustered bar chart visual showing stores and the total number of days their inventory at hand will last.
   
 
 
