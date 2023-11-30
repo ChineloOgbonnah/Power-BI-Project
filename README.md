@@ -99,7 +99,7 @@ By Profit                    |                    By Profit Margin
 :---------------------------:|:----------------------------------:
 ![](Biggest_Profits.PNG)     |![](Biggest_Profits2.PNG)
 
-It was observed here that the product category with the overall highest profit was Toys but it was not same across the four locations. While the Toys category was making the highest profits for Downtown and Residential, Electronics category was making the highest profits for Commercial and Airport. It was also noticed that even though the Toys category was making the highest profits, it had the lowest Profit Margin of 21.20%. This was followed by Sports and Outdoors 23.28%, Art and Crafts 27.85%, while Electronics had the highest Profit Margin of 44.57%.
+It was observed here that the product category with the overall highest profit was Toys but it was not same across the four locations. The product category with the highest profit margin is Electronics and it was same across all locations. While the Toys category was making the highest profits for Downtown and Residential, Electronics category was making the highest profits for Commercial and Airport. It was also noticed that even though the Toys category was making the highest profits, it had the lowest Profit Margin of 21.20%. This was followed by Sports and Outdoors 23.28%, Art and Crafts 27.85%, while Electronics had the highest Profit Margin of 44.57%.
 
 - Out-of-Stock Products Button:
 This button navigates to;
@@ -125,7 +125,13 @@ Maven Toys Ciudad de Mexico 2 has the highest Inventory Cost of $8917.85 with In
 
 ## CONCLUSION AND RECOMMENDATIONS
 
-As a result of the rapid fluctuations in the sales trend throughout each month, It is quite difficult to estimate which period/season the stores make more sales. We can however, pay closer attention to the Products and Stores that have a higher product turnover and make more profit and profit margin.
+As a result of the rapid fluctuations in the sales trend throughout each month, It is quite difficult to estimate which period/season the stores make more sales. We can however, pay closer attention to the products and stores that have a higher inventory turnover, make more profit and profit margin. To this effect, It is recommended that;
+
+- Toys under the electronics category (colorbuds in particular), which has the highest ADUS, highest profit margin across all locations, the highest profit across two locations (Commercial and Airport) and the second highest profits across the remaining two locations, should at no point, be out-of-stock. This is to avoid losing out on any sales. Also, Toys under the toys category should also 
+- A standard should be set on how much inventory days worth of products a store should have at a particular time. This is to avoid overstocking and tying down funds. For instance, Maven Toys Hermosillo 1 have an inventory worth $7.9K that is estimated to last for 25 days while Maven Toys Ciudad de Mexico 2 have an inventory worth $8.9K and it is estimated to last for 12 days. It could be inferred that the first store is overstocked as the tied-down funds could have been shared with the second store and yielded faster returns and inventory turnover.
+- More promotional sales could be done for other product categories, especially those with better profit margin (for example, toys under the Art and Crafts category) to increase visibility and in turn the sales of those products.
+
+### Thanks for taking the time to go through this project, I would appreciate feedbacks.
 
 
 
