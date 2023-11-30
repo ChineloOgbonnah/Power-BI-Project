@@ -123,5 +123,10 @@ This opens up;
 
 Maven Toys Ciudad de Mexico 2 has the highest Inventory Cost of $8917.85 with Inventory days of 12 while Maven Toys Guanajuato 1 has the least Inventory Cost of $3308.33 with Inventory days of 8.
 
+## CONCLUSION AND RECOMMENDATIONS
+
+As a result of the rapid fluctuations in the sales trend throughout each month, It is quite difficult to estimate which period/season more sales are made.
+
+
 
 
