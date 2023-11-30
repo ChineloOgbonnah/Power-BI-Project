@@ -118,7 +118,10 @@ This opens up;
   2. Inventory Days = 15 days,
   3. Inventory Cost by Store = a clustered bar chart visual showing stores and the total cost of their inventory at hand,
   4. Inventory Days by Store = a clustered bar chart visual showing stores and the total number of days their inventory at hand will last.
-  
+
+![](Inventory_Cost.PNG)
+
+Maven Toys Ciudad de Mexico 2 has the highest Inventory Cost of $8917.85 with Inventory days of 12 while Maven Toys Guanajuato 1 has the least Inventory Cost of $3308.33 with Inventory days of 8.
 
 
 
