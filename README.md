@@ -62,7 +62,7 @@ I had added new columns and new measures using DAX. All the expressions I had ad
 ![](DAX.PNG)
 
 ### Visualization and Insights:
-The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/links/EfHCRIBuiR?ctid=d957f822-af15-4726-a71a-af07c5907825&pbi_source=linkShare) for the final report I had created and [here](https://app.powerbi.com/links/Z5U-8lN0cg?ctid=d957f822-af15-4726-a71a-af07c5907825&pbi_source=linkShare) for the first report I had created.
+The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/groups/me/reports/91056121-0b8b-4490-aed1-aa26a4f6ed11?experience=power-bi) for the final report I had created and [here](https://app.powerbi.com/groups/me/reports/2f2e52e3-aa3f-4686-8fa7-4871a53c6ec0?experience=power-bi) for the first report I had created.
 - Homepage:
 The default Homepage as seen in the Visual below will always come up anytime the Homepage button by the right-hand side is clicked. The linkedIn icon takes you to my LinkedIn profile (kindly connect) while the github icon takes you to this repository 😃.
 
