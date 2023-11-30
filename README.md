@@ -62,7 +62,7 @@ I had added new columns and new measures using DAX. All the expressions I had ad
 ![](DAX.PNG)
 
 ### Visualization and Insights:
-The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/groups/me/reports/91056121-0b8b-4490-aed1-aa26a4f6ed11?experience=power-bi) for the final report I had created and [here](https://app.powerbi.com/groups/me/reports/2f2e52e3-aa3f-4686-8fa7-4871a53c6ec0?experience=power-bi) for the first report I had created.
+The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/view?r=eyJrIjoiNzQ3NDdiNGUtMmU4Ny00OGFlLWE0NDctNzEwOTViNGE5NWUxIiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9) for the final report I had created and [here](https://app.powerbi.com/view?r=eyJrIjoiN2JiYjhkYWMtNjdkYi00MTk5LWIyOWItY2VkYWE5NTAyYzQ1IiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9&embedImagePlaceholder=true) for the first report I had created.
 - Homepage:
 The default Homepage as seen in the Visual below will always come up anytime the Homepage button by the right-hand side is clicked. The linkedIn icon takes you to my LinkedIn profile (kindly connect) while the github icon takes you to this repository 😃.
 
