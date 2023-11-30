@@ -32,18 +32,27 @@ In carrying out this project, the underlisted Power BI features were used;
 - Tooltips
 
 ## EXPLORATORY DATA ANALYSIS
-### Data Cleaning: The dataset used was clean and did not need any further transformation. This was checked using the Power Query Editor and the Validity for each column of the tables were 100%. 
+### Data Cleaning:
+The dataset used was clean and did not need any further transformation. This was checked using the Power Query Editor and the Validity for each column of the tables were 100%. 
 
-### Data Modelling: The type of model used for this report was a Star Schema (Many:1 and 1:Many). The auto-generated relationships between the tables were used (even though we could get other relationships), as it was suitable for this project.
+### Data Modelling:
+The type of model used for this report was a Star Schema (Many:1 and 1:Many). The auto-generated relationships between the tables were used (even though we could get other relationships), as it was suitable for this project.
 ![](Maven_toy_Store_Model.PNG)
 
-### Data Analysis Expression (DAX): Some DAX were used to add new columns to some of the tables and calculate new measures for the report. Some of these expressions are listed below;
-Calculated Columns                                      |                                      New Measures
-:------------------------------------------------------:|:------------------------------------------------:
-Cost = sales[Units]*RELATED(products[Product_Cost])     |%  Profit Contribution = DIVIDE(SUM(sales[Profit]),SUMX(ALL(sales),sales[Profit]))
-Profit = sales[Sales]-sales[Cost]                       |Average Daily Sales = SUMX(sales,sales[Sales])/DISTINCTCOUNT(sales[Date].[Date])
-Sales = sales[Units]*RELATED(products[Product_Price])   |Out_of_Stock = CALCULATE(VALUES(inventory[Inventory_at_Hand]),FILTER(inventory,inventory[Inventory_at_Hand]=0))
-- 
+### Data Analysis Expression (DAX): 
+I had added new columns and new measures using DAX. All the expressions I had used are listed below;
+- Calculated Columns;
+  1. <code> <mark>Cost = sales[Units]*RELATED(products[Product_Cost])</mark> </code>
+  2. <code> <mark>Sales = sales[Units]*RELATED(products[Product_Price])</mark> </code>
+  3. <code> <mark>Profit = sales[Sales]-sales[Cost]</mark> </code> 
+- New Measures;
+  1. <code> <mark>%  Profit Contribution = DIVIDE(SUM(sales[Profit]),SUMX(ALL(sales),sales[Profit]))</mark> </code>
+  2. <code> <mark>Average Daily Sales = SUMX(sales,sales[Sales])/DISTINCTCOUNT(sales[Date].[Date])</mark> </code>
+  3. <code> <mark>Out_of_Stock = CALCULATE(VALUES(inventory[Inventory_at_Hand]),FILTER(inventory,inventory[Inventory_at_Hand]=0))</mark> </code>
+  4. <code> <mark>Profit Margin = SUMX(SALES, sales[Profit])/SUMX(sales, sales[Sales])</mark> </code>
+  5. <code> <mark>Inventory Days = inventory[Inventory Cost]/[Average Daily Sales]</mark> </code>
+  6. <code> <mark>Inventory Cost = SUMX(inventory,inventory[Inventory_at_Hand] * RELATED(products[Product_Cost]))</mark> </code>
+  7. <code> <mark>Av_Units_of_Products_Sold_Daily = SUMX(sales,sales[Units])/DISTINCTCOUNT(sales[Date].[Date])</mark> </code>
 
 
 
