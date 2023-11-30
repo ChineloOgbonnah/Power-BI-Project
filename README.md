@@ -97,5 +97,7 @@ By Profit                    |                    By Profit Margin
 :---------------------------:|:----------------------------------:
 ![](Biggest_Profits.PNG)     |![](Biggest_Profits2.PNG)
 
+It was observed here that the product category with the overall highest profit was Toys but it was not same across the four locations. While the Toys category was making the highest profits for Downtown and Residential, Electronics category was making the highest profits for Commercial and Airport. It was also noticed that even though the Toys category was making the highest profits, it had the lowest Profit Margin of 21.20%. This was followed by Sports and Outdoors 23.28%, Art and Crafts 27.85%, while Electronics had the highest Profit Margin of 44.57%.
+
 
 
