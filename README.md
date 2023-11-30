@@ -65,10 +65,12 @@ I had added new columns and new measures using DAX. All the expressions I had ad
 The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive.
 - Homepage:
 The default Homepage as seen in the Visual below will always come up anytime the Homepage button by the right-hand side is clicked. The linkedIn icon takes you to my LinkedIn profile (kindly connect) while the github icon takes you to this repository 😃.
+
 ![](Homepage.PNG)
 
 - Menu and Close Button:
 This opens up the Filter pane where we have different slicers for Year, Month, Product, Location and Store used to filter the report for Specific information.
+
 ![](Filters.PNG)
 
 - Seasonal Trends Button:
@@ -98,6 +100,19 @@ By Profit                    |                    By Profit Margin
 ![](Biggest_Profits.PNG)     |![](Biggest_Profits2.PNG)
 
 It was observed here that the product category with the overall highest profit was Toys but it was not same across the four locations. While the Toys category was making the highest profits for Downtown and Residential, Electronics category was making the highest profits for Commercial and Airport. It was also noticed that even though the Toys category was making the highest profits, it had the lowest Profit Margin of 21.20%. This was followed by Sports and Outdoors 23.28%, Art and Crafts 27.85%, while Electronics had the highest Profit Margin of 44.57%.
+
+- Out-of-Stock Products Button:
+This button navigates to;
+  1. Total Units Sold = 1M
+  2. Average Daily Units Sold (ADUS) = 1494
+  3. Average Daily Sales (ADS) = $19.79K
+  4. Out-of-Stock Inventory = A table visual showing out-of-stock products, their location, ADUS and ADS.
+ 
+  ![](Out_of_stock_products.PNG)
+
+  The out-of-stock inventory with the lowest ADS is Classic Dominoes ($61.19) with an ADUS of 5 while that with the highest ADS is Action Figure ($1,269.52) with an ADUS of 126. This implies that even though sales will be lost with both products being out-of-stock, more sales will be lost with the unavailability of Action Figure than it will be lost with Classic Dominoes. This also applies to the locations that have higher ADS of these products.
+
+  
 
 
 
