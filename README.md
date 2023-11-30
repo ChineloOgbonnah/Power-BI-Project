@@ -68,19 +68,34 @@ The default Homepage as seen in the Visual below will always come up anytime the
 ![](Homepage.PNG)
 
 - Menu and Close Button:
-Opens up the Filter pane where we have different slicers for Year, Month, Product, Location and Store used to filter the report for Specific information.
+This opens up the Filter pane where we have different slicers for Year, Month, Product, Location and Store used to filter the report for Specific information.
 ![](Filters.PNG)
 
 - Seasonal Trends Button:
 This opens up visuals that shows;
-  1. Total Sales = $14,44M
-  2. Average Daily Sales = $19.79K
-  3. Monthly Sales = A clustered column chart visual that shows the total Sales recorded each Month.
+  1. Total Sales = $14,44M,
+  2. Average Daily Sales = $19.79K,
+  3. Monthly Sales = A clustered column chart visual that shows the total Sales recorded each Month,
   4. Daily Sales = An area chart visual that shows the total sales recorded each day of the stores.
 
 ![](Seasonal_Trends.PNG)
 
 It was observed that the Sales (Revenue) fluctuated a lot resulting in an up and downward trend of sales. This was noticed across each of the month of the two years.
+
+- Biggest Profits Button:
+This takes us to the underlisted visuals;
+  1. Total Profit = $4.01M,
+  2. Profit Margin = 27.79%,
+  3. Top Category by Profit = Toys,
+  4. Top Category by Profit Margin = Electronics,
+  5. Profit/Profit Margin by Location = A stacked column chart that shows Profit/Profit Margin by Store Locations,
+  6. Profit/Profit Margin by Category = A donut chart that shows Profit/Profit Margin by Product Categories.
+  7. Two buttons were also added here to navigate through the Visuals by Profit and by Profit Margin
+
+
+By Profit                    |                    By Profit Margin
+:---------------------------:|:----------------------------------:
+![](Biggest_Profits.PNG)     |![](Biggest_Profits2.PNG)
 
 
 
