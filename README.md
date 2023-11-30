@@ -19,6 +19,9 @@ This project took me about 10 days (an average of 2 hours daily) to complete. I 
 - https://www.youtube.com/watch?v=cFZtUzABOa8&list=PPSV
 - https://www.youtube.com/watch?v=dTEmhPbtipc&list=PPSV
 - https://www.youtube.com/watch?v=WspwLOp3UxA&list=PPSV
+- www.flaticon.com
+- https://learn.microsoft.com/en-us/power-bi/
+- https://stackoverflow.com/questions/
 
 First Report                          |                              Final Report
 :------------------------------------:|:----------------------------------------:
