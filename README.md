@@ -125,7 +125,7 @@ Maven Toys Ciudad de Mexico 2 has the highest Inventory Cost of $8917.85 with In
 
 ## CONCLUSION AND RECOMMENDATIONS
 
-As a result of the rapid fluctuations in the sales trend throughout each month, It is quite difficult to estimate which period/season more sales are made.
+As a result of the rapid fluctuations in the sales trend throughout each month, It is quite difficult to estimate which period/season the stores make more sales.
 
 
 
