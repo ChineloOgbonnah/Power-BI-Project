@@ -30,17 +30,17 @@ First Report                          |                              Final Repor
 ### Skillsets:
 In carrying out this project, the underlisted Power BI features were used;
 - DAX (for calculated columns and new measures)
-- Visualization
-- Filters
-- Dynamic Narrative
-- Buttons
-- Bookmarks
-- Selection and Grouping
-- Tooltips
+- Visualization,
+- Filters,
+- Dynamic Narrative,
+- Buttons,
+- Bookmarks,
+- Selection and Grouping,
+- Tooltips.
 
 ## EXPLORATORY DATA ANALYSIS
 ### Data Cleaning:
-The dataset used was clean and did not need any further transformation. This was checked using the Power Query Editor and the Validity for each column of the tables were 100%. 
+The dataset used was clean and did not need any further transformation. This was checked using the Power Query Editor and the validity for each column of the tables were 100%. 
 
 ### Data Modelling:
 The auto-generated relationships between the tables were used (even though we could get other relationships), as it was suitable for this project. The model was a Star Schema with relationship Many:1 and 1:Many.
@@ -48,7 +48,7 @@ The auto-generated relationships between the tables were used (even though we co
 ![](Maven_toy_Store_Model.PNG)
 
 ### Data Analysis Expression (DAX): 
-I had added new columns and new measures using DAX. All the expressions I had added are listed below;
+New columns and new measures were addede using DAX. All the expressions added are listed below;
 - Calculated Columns;
   1. <code> <mark>Cost = sales[Units]*RELATED(products[Product_Cost])</mark> </code>
   2. <code> <mark>Sales = sales[Units]*RELATED(products[Product_Price])</mark> </code>
@@ -65,7 +65,7 @@ I had added new columns and new measures using DAX. All the expressions I had ad
 ![](DAX.PNG)
 
 ### Visualization and Insights:
-The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/view?r=eyJrIjoiNzQ3NDdiNGUtMmU4Ny00OGFlLWE0NDctNzEwOTViNGE5NWUxIiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9) for the final report I had created and [here](https://app.powerbi.com/view?r=eyJrIjoiN2JiYjhkYWMtNjdkYi00MTk5LWIyOWItY2VkYWE5NTAyYzQ1IiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9&embedImagePlaceholder=true) for the first report I had created.
+The final report created is a simple interactive dashboard with clickable buttons that navigates you to various information/insights about the report. The button and bookmark features of Power BI were used to make the report interactive. You can navigate through the report [here](https://app.powerbi.com/view?r=eyJrIjoiNzQ3NDdiNGUtMmU4Ny00OGFlLWE0NDctNzEwOTViNGE5NWUxIiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9) for the final report I created and [here](https://app.powerbi.com/view?r=eyJrIjoiN2JiYjhkYWMtNjdkYi00MTk5LWIyOWItY2VkYWE5NTAyYzQ1IiwidCI6ImQ5NTdmODIyLWFmMTUtNDcyNi1hNzFhLWFmMDdjNTkwNzgyNSJ9&embedImagePlaceholder=true) for the first report I had created.
 - Homepage:
 The default Homepage as seen in the Visual below will always come up anytime the Homepage button by the right-hand side is clicked. The linkedIn icon takes you to my LinkedIn profile (kindly connect) while the github icon takes you to this repository 😃.
 
