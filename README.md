@@ -134,7 +134,7 @@ As a result of the rapid fluctuations in the sales trend throughout each month, 
 - A standard should be set on how much inventory days worth of products a store should have at a particular time. This is to avoid overstocking and tying down funds. For instance, Maven Toys Hermosillo 1 have an inventory worth $7.9K that is estimated to last for 25 days while Maven Toys Ciudad de Mexico 2 have an inventory worth $8.9K and it is estimated to last for 12 days. It could be inferred that the first store is overstocked as the tied-down funds could have been shared with the second store and yielded faster returns and inventory turnover.
 - More promotional sales could be done for other product categories, especially those with better profit margin (for example, toys under the Art and Crafts category) to increase visibility and in turn the sales of those products.
 
-### Thanks for taking the time to go through this project, I would appreciate feedbacks.
+### Thanks for taking the time to go through this project, I would appreciate feedbacks. Kindly click [here](linkedin.com/in/chinellyo) to connect on LinkedIn.
 
 
 
