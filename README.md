@@ -14,7 +14,7 @@ The project was to analyze and derive insigts to answer specific questions set b
 - How much money is tied up in inventory at the toy stores? How long will it last?
 
 ### Resources:
-This project took me about 10 days (an average of 2 hours daily) to complete. I had initially completed it under 4 days but after watching a youtube video by Microsoft Reactor on 'Documenting Data Analysis Project on Github' (https://www.youtube.com/watch?v=GLIwyoPWrHs&t=1706s), I got inspired to make my report more interactive and so began days of learning and upskilling to finally get my final report 😫. Listed below are some of the resources I had used to compute my report;
+This project took me about 10 days (an average of 2 hours daily) to complete. I had initially completed it under 4 days but after watching a youtube video by Microsoft Reactor on 'Documenting Data Analysis Project on Github' (https://www.youtube.com/watch?v=GLIwyoPWrHs&t=1706s), I got inspired to make my report more interactive and so began days of learning and upskilling to finally get my final report 😫. Listed below are some of the resources I had used to compute this report;
 - https://www.youtube.com/watch?v=SCI9iKl4vjU&list=PPSV
 - https://www.youtube.com/watch?v=cFZtUzABOa8&list=PPSV
 - https://www.youtube.com/watch?v=dTEmhPbtipc&list=PPSV
