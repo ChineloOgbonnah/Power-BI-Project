@@ -48,7 +48,7 @@ The auto-generated relationships between the tables were used (even though we co
 ![](Maven_toy_Store_Model.PNG)
 
 ### Data Analysis Expression (DAX): 
-New columns and new measures were addede using DAX. All the expressions added are listed below;
+New columns and new measures were added using DAX. All the expressions added are listed below;
 - Calculated Columns;
   1. <code> <mark>Cost = sales[Units]*RELATED(products[Product_Cost])</mark> </code>
   2. <code> <mark>Sales = sales[Units]*RELATED(products[Product_Price])</mark> </code>
