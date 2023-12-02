@@ -1,4 +1,4 @@
-# MAVEN TOY STORES, MEXICO
+# MAVEN TOYS, MEXICO
 
 ![](toy_store_picture_2.jpeg)
 ---
